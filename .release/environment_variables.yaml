@@ -1,7 +1,9 @@
 ---
+gitops:
+  immutable_keys: ['FRESH']
 defaults:
 - key: FRESH
-  value: 'and so clean'
+  value: 'and so cleanz'
 - key: POSTGRES_DB
   value: database
 - key: POSTGRES_HOST
