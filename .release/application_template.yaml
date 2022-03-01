@@ -17,7 +17,7 @@ resources:
     requests: 100m
   memory:
     limits: 1Gi
-    requests: 103Mi
+    requests: 109Mi
   replicas: 1
 services:
 - name: vote
